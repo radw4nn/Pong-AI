@@ -15,4 +15,16 @@ This repository contains the implementation of a Ping Pong AI system that utiliz
 ## Installation
 
 1. Clone the repository:
+  `git clone https://github.com/your_username/ping-pong-ai.git`
+  `cd ping-pong-ai`
+2. Install dependencies:
+  `pip install neat_python`
+3. Run the training script
+
+## Usage
+
+1. Configure training parameters in the `config.txt` file to adjust the NEAT algorithm settings, game environment parameters, and other options.
+2. Run the training script to start the evolutionary process.
+3. Monitor training progress, evaluate performance metrics, and visualize gameplay through the training interface.
+4. Once training is complete, the trained Ping Pong AI model can be saved and deployed for gameplay or further analysis.
 
