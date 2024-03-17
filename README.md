@@ -1,4 +1,4 @@
-# Ping Pong AI using NEAT Genetic Algorithm
+# Ping Pong AI using NEAT Genetic Algorithm 🏓🧬
 
 This repository contains the implementation of a Ping Pong AI system that utilizes the NEAT (NeuroEvolution of Augmenting Topologies) genetic algorithm for training the model. The Ping Pong AI is designed to learn and improve its gameplay strategy through evolutionary processes, mimicking natural selection and genetic variation.
 
